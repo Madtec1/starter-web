@@ -10,8 +10,9 @@ Adding introduction text
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, no modified
 
 ## Deployment
+as stated above the purpose is to show what git can do
 
 ## How to Contribute

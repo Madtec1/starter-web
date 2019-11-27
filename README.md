@@ -16,7 +16,7 @@ Sample website with plenty of files for demos, no modified
 as stated above the purpose is to show what git can do
 
 ## How to Contribute
-
+Please fork this repository and then issue Pull Requests for review
 
 ### Copyright
 Adding copyright section to html

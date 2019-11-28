@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 testing one more change
 
+Adding a line for rebasing example
+
 
 ## Introduction
 
